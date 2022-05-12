@@ -1,0 +1,32 @@
+{
+  "name": "aula_node_descomplica",
+  "version": "1.0.0",
+  "description": "usando nodejs na descomplica",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauroslucios/aula_node_descomplica.git"
+  },
+  "keywords": [
+    "accenture",
+    "itau",
+    "aws",
+    "descomplica",
+    "impulsotec",
+    "k2"
+  ],
+  "author": "mauroslucios@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mauroslucios/aula_node_descomplica/issues"
+  },
+  "homepage": "https://github.com/mauroslucios/aula_node_descomplica#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
